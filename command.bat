@@ -1,0 +1,1 @@
+FullFolderComparison "C:\Users\Vahid\Desktop\old1" "C:\Users\Vahid\Desktop\new1" "C:\Users\Vahid\Desktop\output"
